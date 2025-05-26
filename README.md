@@ -22,7 +22,7 @@ A responsive online education platform with user authentication, Firebase integr
 - HTML
 - CSS
 - JS
-*Backend:* Firebase Authentication
+- *Backend:* Firebase Authentication
 
 ##
 🌐 Live Demo: Visit my project on Live 
